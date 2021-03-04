@@ -1,1 +1,3 @@
 # RestFulApiClientes
+ENDPOINT: ../api/clientes/
+VALIDAÇÕES: CAMPO NOME VAZIO, CAMPO CPF VAZIO E CAMPO CPF INVÁLIDO 
